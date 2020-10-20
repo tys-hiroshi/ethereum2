@@ -30,7 +30,7 @@ create project in https://infura.io/dashboard/ethereum
 get testnet Goerli Endpoint
 
 ```
-./prysm.sh beacon-chain --http-web3provider=https://goerli.infura.io/v3/ff8fdcb713c349e8b1544fdb99fb26d0
+./prysm.sh beacon-chain --http-web3provider=https://goerli.infura.io/v3/[hogehoge]
 ```
 
 
