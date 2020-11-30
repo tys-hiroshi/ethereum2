@@ -52,3 +52,6 @@ geth --goerli --datadir="$HOME/Goerli"
 Latest Prysm version is v1.0.0-alpha.29.
 Beacon chain is up to date.
 gpg is not available. Either install it or run with PRYSM_ALLOW_UNVERIFIED_BINARIES=1.
+
+
+brew install gnupg gnupg2
